@@ -17,7 +17,7 @@ Pytorch >=1.6.0
 ## Ciation
 If this work is helpful to you, please cite it as:
 ```
-@ARTICLE{10680110
+@ARTICLE{
   author={Wuqiang Qi,Zhuoqun Zhang,Zhishe Wang},
   journal={Chinese Journal of Information Fusion}, 
   title={ DMFuse: Diffusion Model Guided Cross-Attention Learning for Infrared and Visible Image Fusion}, 

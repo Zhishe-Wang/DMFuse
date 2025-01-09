@@ -11,7 +11,8 @@ Pytorch >=1.6.0
 ## Training Dataset
 
 [TNO](https://ﬁgshare.com/articles/TN_Image_Fusion_Dataset/1008029) is utilized to train our network.
-* [pre-trained model]( https://pan.baidu.com/s/1_0SlthPmlQPEePzOZbxLWA?pwd=IMAG )<br>
+## Pre-trained Model
+[pre-trained model]( https://pan.baidu.com/s/1_0SlthPmlQPEePzOZbxLWA?pwd=IMAG )<br>
  Extraction code: IMAG
 ## Ciation
 If this work is helpful to you, please cite it as:
